@@ -1,6 +1,6 @@
 ## Interface: 11508, 20505, 30403, 40400, 110207, 120001
 ## Title: TowerTimer
-## Notes: Announces AV tower assault countdowns in /s chat every 60 seconds
+## Notes: Announces AV tower assault countdowns in party chat every 60 seconds
 ## Author: YourName
 ## Version: 1.0.0
 
