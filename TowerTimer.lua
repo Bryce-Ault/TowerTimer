@@ -19,7 +19,7 @@ frame:SetScript("OnEvent", function(self, event, ...)
 
     elseif event == "CHAT_MSG_BG_SYSTEM_NEUTRAL" then
         if arg1:find("has begun") then
-            PlaySound(8174, "Master") -- PVP flag capture (short alert)
+            PlaySound(8212, "Master") -- AllianceAssaultHordeTower
             PrintLocal("Battleground started!")
         end
     end
